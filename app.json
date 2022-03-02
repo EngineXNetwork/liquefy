@@ -1,7 +1,7 @@
 {
-    "name": "Ultraviolet App",
-    "description": "Node.js Ultraviolet instance",
-    "repository": "https://github.com/titaniumnetwork-dev/ultraviolet-web-app",
-    "logo": "https://github.com/titaniumnetwork-dev/Ultraviolet/blob/main/uv.png?raw=true",
-    "keywords": ["tomp", "ultraviolet"]
+    "name": "Liquefy App",
+    "description": "Node.js Liquefy instance",
+    "repository": "https://github.com/EngineXNetwork/liquefy",
+    "logo": "https://media.discordapp.net/attachments/938248997733273602/946564071560470538/unknown.png?width=158&height=162",
+    "keywords": ["tomp", "liquefy"]
 }
