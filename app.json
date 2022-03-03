@@ -1,6 +1,6 @@
 {
-    "name": "Liquefy App",
-    "description": "Node.js Liquefy instance",
+    "name": "Liquefy Proxy",
+    "description": "Node.js Liquedy instance",
     "repository": "https://github.com/EngineXNetwork/liquefy",
     "logo": "https://media.discordapp.net/attachments/938248997733273602/946564071560470538/unknown.png?width=158&height=162",
     "keywords": ["tomp", "liquefy"]
